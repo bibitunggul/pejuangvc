@@ -6,9 +6,9 @@ Perhatikan Langkah-Langkahnya
 3. pkg install php
 4. pkg install curl
 5. pkg install git
-7. git clone https://github.com/mrubay/claim
-8. cd claim
-9. php claim.php
+7. git clone https://github.com/bibitunggul/pejuangvc
+8. cd pejuangvc
+9. php vc.php
 10. Sudah Punya User Login ?: "y"
 11. Masukin User Loginnya
 12. Ketikan Nama Anda.
